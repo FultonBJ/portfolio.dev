@@ -1,4 +1,4 @@
-# FultonBJ.github.dev
+# https://github.com/FultonBJ?tab=repositories
 # 💫 About Me:<br>Greetings! I'm a 'soon to graduate' Software Engineer. I'm a detailed oriented, problem solver that enjoys working on an <br>interdisciplinary team to produce better products and push the limits of technologies. My projects may span a wide range <br>of software development areas, but this has given me valuable experience in integration, dependency trouble shooting, and <br>streamlining my own onboarding process to new languages/tools/frameworks. 
 
 
